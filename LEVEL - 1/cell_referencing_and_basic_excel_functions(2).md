@@ -53,3 +53,5 @@ Cell referencing reduces repetitive data entry and minimizes errors. Instead of 
 - **Use Named Ranges:** Assign names to important ranges to make your formulas easier to understand and manage.
 - **Understand Your Needs:** Choose the reference type (relative, absolute, or mixed) that best suits your specific task.
 - **Double-check Your Formulas:** Ensure that your references are correctly set up to avoid errors in your calculations.
+
+[Excel Cell Reference: Absolute, Relative or Mixed?](https://youtu.be/FRu48zy-Djk)
