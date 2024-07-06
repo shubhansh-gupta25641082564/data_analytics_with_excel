@@ -131,5 +131,5 @@ These functions help automate decision-making processes in your spreadsheets, en
 - **Use Wildcards:** In criteria for COUNTIF, SUMIF, and similar functions, use `*` for any sequence of characters and `?` for a single character.
 - **Logical Operators:** Understand and utilize logical operators effectively to construct precise conditions.
 
-[Top 10 Most Important Excel Formulas - Made Easy!](https://youtu.be/ShBTJrdioLo)
+[Top 10 Most Important Excel Formulas - Made Easy!](https://youtu.be/ShBTJrdioLo)<br>
 [Master Conditional Formatting in Excel (The CORRECT Way)](https://youtu.be/ZsjQiZPdIs8)
