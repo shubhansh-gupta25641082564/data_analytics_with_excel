@@ -74,5 +74,5 @@ This searches for the value in `A2` within the range `B2:B10` and returns the co
 - **Use Absolute References:** When copying lookup formulas, use absolute references to keep the lookup range constant.
 
 
-[Excel Vlookup Tutorial - Everything You Need To Know](https://youtu.be/d3BYVQ6xIE4)
+[Excel Vlookup Tutorial - Everything You Need To Know](https://youtu.be/d3BYVQ6xIE4)<br>
 [How To Use Index Match As An Alternative To Vlookup](https://youtu.be/yH_ArqoB0no)
