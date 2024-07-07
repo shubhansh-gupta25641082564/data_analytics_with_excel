@@ -71,3 +71,5 @@ Use custom pivot tables to build comprehensive dashboards and business intellige
 - **Plan Your Layout:** Think about the structure of your pivot table before you start dragging and dropping fields.
 - **Use Descriptive Labels:** Rename fields and groups to make your pivot table more understandable.
 - **Keep Data Organized:** Ensure your source data is well-organized and cleaned to maximize the effectiveness of your pivot table.
+
+[Excel Pivot Table EXPLAINED in 10 Minutes (Productivity tips included!)](https://youtu.be/UsdedFoTA68)
